@@ -10,7 +10,7 @@ Full Stack Developer
 * 🖥️  See my portfolio at [my-portfolio](http://naingaunglwin-portfolio.vercel.app)
 * ✉️  You can contact me at [naingaunglwin047@gmail.com](mailto:naingaunglwin047@gmail.com)
 * 🧠  I'm learning C#, .NET framework, Spring framework, Svelte and Rust
-* 🤝  I'm open to collaborating on ## 🤝 Open to Collaboration I thrive on the power of collaboration and am enthusiastic about working with fellow developers, designers, and innovators. Whether you have an exciting project idea, are looking for a collaborator, or need an extra pair of hands on an open-source initiative, I'm all ears! Let's brainstorm, code, and create something extraordinary together. Feel free to reach out via \[email/LinkedIn/Twitter\], or simply open an issue on one of my repositories. Looking forward to connecting with like-minded individuals and building amazing things collaboratively! 🚀
+* 🤝  I'm open to collaborating on ## 🤝 Open to Collaboration I thrive on the power of collaboration and am enthusiastic about working with fellow developers, designers, and innovators. Whether you have an exciting project idea, are looking for a collaborator, or need an extra pair of hands on an open-source initiative, I'm all ears! Let's brainstorm, code, and create something extraordinary together. Feel free to reach out via naingaunglwin047@gmail.com. Looking forward to connecting with like-minded individuals and building amazing things collaboratively! 🚀
 
 ### Skills
 
